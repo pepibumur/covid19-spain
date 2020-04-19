@@ -3,7 +3,7 @@ const remarkSlug = require("remark-slug")
 module.exports = {
   siteMetadata: {
     title: `La reproducción de COVID19 en España`,
-    description: `Página web informativa que procesa los datos ofrecidos por las distintas regiones en España respecto al número de infectados y fallecidos por COVID19 y ofrece información sobre la tasa de reproducción efectiva (Rt).`,
+    description: `Página web informativa que procesa los datos ofrecidos por las distintas comunidades autónomas en España respecto al número de infectados y fallecidos por COVID19 y ofrece información sobre la tasa de reproducción efectiva (Rt).`,
     siteUrl: "https://estadocovid19.es",
     keywords: [
       `COVID-19 España`,

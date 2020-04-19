@@ -42,6 +42,10 @@ const Meta = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2020/04/COVID.jpg"
+        },
+        {
           property: `og:type`,
           content: `website`,
         },
