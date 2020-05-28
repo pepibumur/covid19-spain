@@ -1,7 +1,223 @@
 date,state,fips,cases,deaths
+2020-05-24,Andalucía,1,1391,1391
+2020-05-24,Aragón,1,858,858
+2020-05-24,Asturias,1,308,308
+2020-05-24,Baleares,1,222,222
+2020-05-24,Canarias,1,157,157
+2020-05-24,Cantabria,1,209,209
+2020-05-24,Castilla La Mancha,1,2940,2940
+2020-05-24,Castilla y León,1,1961,1961
+2020-05-24,Cataluña,1,6701,6701
+2020-05-24,Ceuta,1,4,4
+2020-05-24,C. Valenciana,1,1393,1393
+2020-05-24,Extremadura,1,506,506
+2020-05-24,Galicia,1,613,613
+2020-05-24,Madrid,1,8977,8977
+2020-05-24,Melilla,1,2,2
+2020-05-24,Murcia,1,149,149
+2020-05-24,Navarra,1,509,509
+2020-05-24,País Vasco,1,1494,1494
+2020-05-23,Andalucía,1,1389,1389
+2020-05-23,Aragón,1,858,858
+2020-05-23,Asturias,1,307,307
+2020-05-23,Baleares,1,222,222
+2020-05-23,Canarias,1,157,157
+2020-05-23,Cantabria,1,209,209
+2020-05-23,Castilla La Mancha,1,2934,2934
+2020-05-23,Castilla y León,1,1961,1961
+2020-05-23,Cataluña,1,6663,6663
+2020-05-23,Ceuta,1,4,4
+2020-05-23,C. Valenciana,1,1390,1390
+2020-05-23,Extremadura,1,507,507
+2020-05-23,Galicia,1,610,610
+2020-05-23,Madrid,1,8956,8956
+2020-05-23,Melilla,1,2,2
+2020-05-23,Murcia,1,149,149
+2020-05-23,Navarra,1,509,509
+2020-05-23,País Vasco,1,1494,1494
+2020-05-22,Andalucía,1,1377,1377
+2020-05-22,Aragón,1,858,858
+2020-05-22,Asturias,1,307,307
+2020-05-22,Baleares,1,222,222
+2020-05-22,Canarias,1,155,155
+2020-05-22,Cantabria,1,209,209
+2020-05-22,Castilla La Mancha,1,2929,2929
+2020-05-22,Castilla y León,1,1961,1961
+2020-05-22,Cataluña,1,6656,6656
+2020-05-22,Ceuta,1,4,4
+2020-05-22,C. Valenciana,1,1389,1389
+2020-05-22,Extremadura,1,506,506
+2020-05-22,Galicia,1,609,609
+2020-05-22,Madrid,1,8944,8944
+2020-05-22,Melilla,1,2,2
+2020-05-22,Murcia,1,149,149
+2020-05-22,Navarra,1,508,508
+2020-05-22,País Vasco,1,1487,1487
+2020-05-21,Andalucía,1,1375,1375
+2020-05-21,Aragón,1,848,848
+2020-05-21,Asturias,1,307,307
+2020-05-21,Baleares,1,221,221
+2020-05-21,Canarias,1,155,155
+2020-05-21,Cantabria,1,209,209
+2020-05-21,Castilla La Mancha,1,2919,2919
+2020-05-21,Castilla y León,1,1960,1960
+2020-05-21,Cataluña,1,6021,6021
+2020-05-21,Ceuta,1,4,4
+2020-05-21,C. Valenciana,1,1383,1383
+2020-05-21,Extremadura,1,505,505
+2020-05-21,Galicia,1,608,608
+2020-05-21,Madrid,1,8931,8931
+2020-05-21,Melilla,1,2,2
+2020-05-21,Murcia,1,149,149
+2020-05-21,Navarra,1,506,506
+2020-05-21,País Vasco,1,1483,1483
+2020-05-20,Andalucía,1,1371,1371
+2020-05-20,Aragón,1,847,847
+2020-05-20,Asturias,1,304,304
+2020-05-20,Baleares,1,221,221
+2020-05-20,Canarias,1,155,155
+2020-05-20,Cantabria,1,209,209
+2020-05-20,Castilla La Mancha,1,2913,2913
+2020-05-20,Castilla y León,1,1960,1960
+2020-05-20,Cataluña,1,6021,6021
+2020-05-20,Ceuta,1,4,4
+2020-05-20,C. Valenciana,1,1378,1378
+2020-05-20,Extremadura,1,504,504
+2020-05-20,Galicia,1,607,607
+2020-05-20,Madrid,1,8912,8912
+2020-05-20,Melilla,1,2,2
+2020-05-20,Murcia,1,148,148
+2020-05-20,Navarra,1,503,503
+2020-05-20,País Vasco,1,1480,1480
+2020-05-19,Andalucía,1,1367,1367
+2020-05-19,Aragón,1,843,843
+2020-05-19,Asturias,1,303,303
+2020-05-19,Baleares,1,219,219
+2020-05-19,Canarias,1,155,155
+2020-05-19,Cantabria,1,208,208
+2020-05-19,Castilla La Mancha,1,2900,2900
+2020-05-19,Castilla y León,1,1960,1960
+2020-05-19,Cataluña,1,5981,5981
+2020-05-19,Ceuta,1,4,4
+2020-05-19,C. Valenciana,1,1376,1376
+2020-05-19,Extremadura,1,504,504
+2020-05-19,Galicia,1,607,607
+2020-05-19,Madrid,1,8894,8894
+2020-05-19,Melilla,1,2,2
+2020-05-19,Murcia,1,145,145
+2020-05-19,Navarra,1,503,503
+2020-05-19,País Vasco,1,1470,1470
+2020-05-18,Andalucía,1,1358,1358
+2020-05-18,Aragón,1,838,838
+2020-05-18,Asturias,1,301,301
+2020-05-18,Baleares,1,218,218
+2020-05-18,Canarias,1,153,153
+2020-05-18,Cantabria,1,207,207
+2020-05-18,Castilla La Mancha,1,2898,2898
+2020-05-18,Castilla y León,1,1953,1953
+2020-05-18,Cataluña,1,5956,5956
+2020-05-18,Ceuta,1,4,4
+2020-05-18,C. Valenciana,1,1370,1370
+2020-05-18,Extremadura,1,500,500
+2020-05-18,Galicia,1,607,607
+2020-05-18,Madrid,1,8863,8863
+2020-05-18,Melilla,1,2,2
+2020-05-18,Murcia,1,145,145
+2020-05-18,Navarra,1,503,503
+2020-05-18,País Vasco,1,1466,1466
+2020-05-17,Andalucía,1,1358,1358
+2020-05-17,Aragón,1,838,838
+2020-05-17,Asturias,1,299,299
+2020-05-17,Baleares,1,218,218
+2020-05-17,Canarias,1,151,151
+2020-05-17,Cantabria,1,207,207
+2020-05-17,Castilla La Mancha,1,2893,2893
+2020-05-17,Castilla y León,1,1946,1946
+2020-05-17,Cataluña,1,5944,5944
+2020-05-17,Ceuta,1,4,4
+2020-05-17,C. Valenciana,1,1366,1366
+2020-05-17,Extremadura,1,500,500
+2020-05-17,Galicia,1,606,606
+2020-05-17,Madrid,1,8847,8847
+2020-05-17,Melilla,1,2,2
+2020-05-17,Murcia,1,144,144
+2020-05-17,Navarra,1,503,503
+2020-05-17,País Vasco,1,1459,1459
+2020-05-16,Andalucía,1,1355,1355
+2020-05-16,Aragón,1,838,838
+2020-05-16,Asturias,1,299,299
+2020-05-16,Baleares,1,216,216
+2020-05-16,Canarias,1,151,151
+2020-05-16,Cantabria,1,206,206
+2020-05-16,Castilla La Mancha,1,2883,2883
+2020-05-16,Castilla y León,1,1940,1940
+2020-05-16,Cataluña,1,5915,5915
+2020-05-16,Ceuta,1,4,4
+2020-05-16,C. Valenciana,1,1365,1365
+2020-05-16,Extremadura,1,497,497
+2020-05-16,Galicia,1,604,604
+2020-05-16,Madrid,1,8826,8826
+2020-05-16,Melilla,1,2,2
+2020-05-16,Murcia,1,144,144
+2020-05-16,Navarra,1,501,501
+2020-05-16,País Vasco,1,1455,1455
+2020-05-15,Andalucía,1,1344,1344
+2020-05-15,Aragón,1,837,837
+2020-05-15,Asturias,1,298,298
+2020-05-15,Baleares,1,216,216
+2020-05-15,Canarias,1,151,151
+2020-05-15,Cantabria,1,206,206
+2020-05-15,Castilla La Mancha,1,2870,2870
+2020-05-15,Castilla y León,1,1930,1930
+2020-05-15,Cataluña,1,5882,5882
+2020-05-15,Ceuta,1,4,4
+2020-05-15,C. Valenciana,1,1358,1358
+2020-05-15,Extremadura,1,494,494
+2020-05-15,Galicia,1,603,603
+2020-05-15,Madrid,1,8809,8809
+2020-05-15,Melilla,1,2,2
+2020-05-15,Murcia,1,143,143
+2020-05-15,Navarra,1,500,500
+2020-05-15,País Vasco,1,1454,1454
+2020-05-14,Andalucía,1,1336,1336
+2020-05-14,Aragón,1,836,836
+2020-05-14,Asturias,1,293,293
+2020-05-14,Baleares,1,216,216
+2020-05-14,Canarias,1,151,151
+2020-05-14,Cantabria,1,205,205
+2020-05-14,Castilla La Mancha,1,2852,2852
+2020-05-14,Castilla y León,1,1925,1925
+2020-05-14,Cataluña,1,5823,5823
+2020-05-14,Ceuta,1,4,4
+2020-05-14,C. Valenciana,1,1349,1349
+2020-05-14,Extremadura,1,492,492
+2020-05-14,Galicia,1,603,603
+2020-05-14,Madrid,1,8779,8779
+2020-05-14,Melilla,1,2,2
+2020-05-14,Murcia,1,142,142
+2020-05-14,Navarra,1,498,498
+2020-05-14,País Vasco,1,1454,1454
+2020-05-13,Andalucía,1,1332,1332
+2020-05-13,Aragón,1,829,829
+2020-05-13,Asturias,1,292,292
+2020-05-13,Baleares,1,215,215
+2020-05-13,Canarias,1,151,151
+2020-05-13,Cantabria,1,205,205
+2020-05-13,Castilla La Mancha,1,2835,2835
+2020-05-13,Castilla y León,1,1919,1919
+2020-05-13,Cataluña,1,5692,5692
+2020-05-13,Ceuta,1,4,4
+2020-05-13,C. Valenciana,1,1341,1341
+2020-05-13,Extremadura,1,489,489
+2020-05-13,Galicia,1,599,599
+2020-05-13,Madrid,1,8760,8760
+2020-05-13,Melilla,1,2,2
+2020-05-13,Murcia,1,142,142
+2020-05-13,Navarra,1,494,494
+2020-05-13,País Vasco,1,1442,1442
 2020-05-12,Andalucía,1,1326,1326
 2020-05-12,Aragón,1,828,828
-2020-05-12,Asturias,1,304,304
+2020-05-12,Asturias,1,290,290
 2020-05-12,Baleares,1,210,210
 2020-05-12,Canarias,1,151,151
 2020-05-12,Cantabria,1,203,203
@@ -11,7 +227,7 @@ date,state,fips,cases,deaths
 2020-05-12,Ceuta,1,4,4
 2020-05-12,C. Valenciana,1,1336,1336
 2020-05-12,Extremadura,1,487,487
-2020-05-12,Galicia,1,595,595
+2020-05-12,Galicia,1,598,598
 2020-05-12,Madrid,1,8720,8720
 2020-05-12,Melilla,1,2,2
 2020-05-12,Murcia,1,139,139
@@ -19,7 +235,7 @@ date,state,fips,cases,deaths
 2020-05-12,País Vasco,1,1429,1429
 2020-05-11,Andalucía,1,1322,1322
 2020-05-11,Aragón,1,825,825
-2020-05-11,Asturias,1,299,299
+2020-05-11,Asturias,1,288,288
 2020-05-11,Baleares,1,209,209
 2020-05-11,Canarias,1,149,149
 2020-05-11,Cantabria,1,201,201
@@ -29,7 +245,7 @@ date,state,fips,cases,deaths
 2020-05-11,Ceuta,1,4,4
 2020-05-11,C. Valenciana,1,1330,1330
 2020-05-11,Extremadura,1,483,483
-2020-05-11,Galicia,1,593,593
+2020-05-11,Galicia,1,597,597
 2020-05-11,Madrid,1,8683,8683
 2020-05-11,Melilla,1,2,2
 2020-05-11,Murcia,1,139,139
@@ -37,7 +253,7 @@ date,state,fips,cases,deaths
 2020-05-11,País Vasco,1,1423,1423
 2020-05-10,Andalucía,1,1320,1320
 2020-05-10,Aragón,1,824,824
-2020-05-10,Asturias,1,295,295
+2020-05-10,Asturias,1,283,283
 2020-05-10,Baleares,1,209,209
 2020-05-10,Canarias,1,148,148
 2020-05-10,Cantabria,1,201,201
@@ -47,7 +263,7 @@ date,state,fips,cases,deaths
 2020-05-10,Ceuta,1,4,4
 2020-05-10,C. Valenciana,1,1323,1323
 2020-05-10,Extremadura,1,480,480
-2020-05-10,Galicia,1,592,592
+2020-05-10,Galicia,1,596,596
 2020-05-10,Madrid,1,8644,8644
 2020-05-10,Melilla,1,2,2
 2020-05-10,Murcia,1,139,139
@@ -55,7 +271,7 @@ date,state,fips,cases,deaths
 2020-05-10,País Vasco,1,1418,1418
 2020-05-09,Andalucía,1,1317,1317
 2020-05-09,Aragón,1,823,823
-2020-05-09,Asturias,1,293,293
+2020-05-09,Asturias,1,280,280
 2020-05-09,Baleares,1,207,207
 2020-05-09,Canarias,1,148,148
 2020-05-09,Cantabria,1,201,201
@@ -65,7 +281,7 @@ date,state,fips,cases,deaths
 2020-05-09,Ceuta,1,4,4
 2020-05-09,C. Valenciana,1,1315,1315
 2020-05-09,Extremadura,1,477,477
-2020-05-09,Galicia,1,591,591
+2020-05-09,Galicia,1,595,595
 2020-05-09,Madrid,1,8598,8598
 2020-05-09,Melilla,1,2,2
 2020-05-09,Murcia,1,138,138
@@ -73,7 +289,7 @@ date,state,fips,cases,deaths
 2020-05-09,País Vasco,1,1403,1403
 2020-05-08,Andalucía,1,1301,1301
 2020-05-08,Aragón,1,815,815
-2020-05-08,Asturias,1,292,292
+2020-05-08,Asturias,1,280,280
 2020-05-08,Baleares,1,202,202
 2020-05-08,Canarias,1,148,148
 2020-05-08,Cantabria,1,201,201
@@ -83,7 +299,7 @@ date,state,fips,cases,deaths
 2020-05-08,Ceuta,1,4,4
 2020-05-08,C. Valenciana,1,1309,1309
 2020-05-08,Extremadura,1,472,472
-2020-05-08,Galicia,1,588,588
+2020-05-08,Galicia,1,592,592
 2020-05-08,Madrid,1,8552,8552
 2020-05-08,Melilla,1,2,2
 2020-05-08,Murcia,1,137,137
@@ -91,7 +307,7 @@ date,state,fips,cases,deaths
 2020-05-08,País Vasco,1,1390,1390
 2020-05-07,Andalucía,1,1294,1294
 2020-05-07,Aragón,1,800,800
-2020-05-07,Asturias,1,292,292
+2020-05-07,Asturias,1,279,279
 2020-05-07,Baleares,1,201,201
 2020-05-07,Canarias,1,144,144
 2020-05-07,Cantabria,1,200,200
@@ -101,7 +317,7 @@ date,state,fips,cases,deaths
 2020-05-07,Ceuta,1,4,4
 2020-05-07,C. Valenciana,1,1303,1303
 2020-05-07,Extremadura,1,467,467
-2020-05-07,Galicia,1,586,586
+2020-05-07,Galicia,1,591,591
 2020-05-07,Madrid,1,8504,8504
 2020-05-07,Melilla,1,2,2
 2020-05-07,Murcia,1,137,137
@@ -109,7 +325,7 @@ date,state,fips,cases,deaths
 2020-05-07,País Vasco,1,1383,1383
 2020-05-06,Andalucía,1,1281,1281
 2020-05-06,Aragón,1,788,788
-2020-05-06,Asturias,1,287,287
+2020-05-06,Asturias,1,278,278
 2020-05-06,Baleares,1,199,199
 2020-05-06,Canarias,1,143,143
 2020-05-06,Cantabria,1,199,199
@@ -119,7 +335,7 @@ date,state,fips,cases,deaths
 2020-05-06,Ceuta,1,4,4
 2020-05-06,C. Valenciana,1,1291,1291
 2020-05-06,Extremadura,1,463,463
-2020-05-06,Galicia,1,582,582
+2020-05-06,Galicia,1,588,588
 2020-05-06,Madrid,1,8466,8466
 2020-05-06,Melilla,1,2,2
 2020-05-06,Murcia,1,136,136
@@ -127,7 +343,7 @@ date,state,fips,cases,deaths
 2020-05-06,País Vasco,1,1364,1364
 2020-05-05,Andalucía,1,1267,1267
 2020-05-05,Aragón,1,770,770
-2020-05-05,Asturias,1,284,284
+2020-05-05,Asturias,1,275,275
 2020-05-05,Baleares,1,198,198
 2020-05-05,Canarias,1,142,142
 2020-05-05,Cantabria,1,198,198
@@ -137,7 +353,7 @@ date,state,fips,cases,deaths
 2020-05-05,Ceuta,1,4,4
 2020-05-05,C. Valenciana,1,1279,1279
 2020-05-05,Extremadura,1,462,462
-2020-05-05,Galicia,1,573,573
+2020-05-05,Galicia,1,579,579
 2020-05-05,Madrid,1,8420,8420
 2020-05-05,Melilla,1,2,2
 2020-05-05,Murcia,1,136,136
@@ -145,7 +361,7 @@ date,state,fips,cases,deaths
 2020-05-05,País Vasco,1,1353,1353
 2020-05-04,Andalucía,1,1263,1263
 2020-05-04,Aragón,1,762,762
-2020-05-04,Asturias,1,284,284
+2020-05-04,Asturias,1,274,274
 2020-05-04,Baleares,1,197,197
 2020-05-04,Canarias,1,141,141
 2020-05-04,Cantabria,1,197,197
@@ -155,7 +371,7 @@ date,state,fips,cases,deaths
 2020-05-04,Ceuta,1,4,4
 2020-05-04,C. Valenciana,1,1269,1269
 2020-05-04,Extremadura,1,460,460
-2020-05-04,Galicia,1,569,569
+2020-05-04,Galicia,1,575,575
 2020-05-04,Madrid,1,8376,8376
 2020-05-04,Melilla,1,2,2
 2020-05-04,Murcia,1,134,134
@@ -163,7 +379,7 @@ date,state,fips,cases,deaths
 2020-05-04,País Vasco,1,1341,1341
 2020-05-03,Andalucía,1,1256,1256
 2020-05-03,Aragón,1,761,761
-2020-05-03,Asturias,1,280,280
+2020-05-03,Asturias,1,270,270
 2020-05-03,Baleares,1,197,197
 2020-05-03,Canarias,1,140,140
 2020-05-03,Cantabria,1,195,195
@@ -173,7 +389,7 @@ date,state,fips,cases,deaths
 2020-05-03,Ceuta,1,4,4
 2020-05-03,C. Valenciana,1,1264,1264
 2020-05-03,Extremadura,1,460,460
-2020-05-03,Galicia,1,563,563
+2020-05-03,Galicia,1,569,569
 2020-05-03,Madrid,1,8332,8332
 2020-05-03,Melilla,1,2,2
 2020-05-03,Murcia,1,134,134
@@ -181,7 +397,7 @@ date,state,fips,cases,deaths
 2020-05-03,País Vasco,1,1329,1329
 2020-05-02,Andalucía,1,1253,1253
 2020-05-02,Aragón,1,761,761
-2020-05-02,Asturias,1,279,279
+2020-05-02,Asturias,1,270,270
 2020-05-02,Baleares,1,197,197
 2020-05-02,Canarias,1,140,140
 2020-05-02,Cantabria,1,193,193
@@ -191,7 +407,7 @@ date,state,fips,cases,deaths
 2020-05-02,Ceuta,1,4,4
 2020-05-02,C. Valenciana,1,1258,1258
 2020-05-02,Extremadura,1,458,458
-2020-05-02,Galicia,1,557,557
+2020-05-02,Galicia,1,563,563
 2020-05-02,Madrid,1,8292,8292
 2020-05-02,Melilla,1,2,2
 2020-05-02,Murcia,1,132,132
@@ -199,7 +415,7 @@ date,state,fips,cases,deaths
 2020-05-02,País Vasco,1,1321,1321
 2020-05-01,Andalucía,1,1238,1238
 2020-05-01,Aragón,1,749,749
-2020-05-01,Asturias,1,273,273
+2020-05-01,Asturias,1,264,264
 2020-05-01,Baleares,1,193,193
 2020-05-01,Canarias,1,136,136
 2020-05-01,Cantabria,1,192,192
@@ -209,7 +425,7 @@ date,state,fips,cases,deaths
 2020-05-01,Ceuta,1,4,4
 2020-05-01,C. Valenciana,1,1245,1245
 2020-05-01,Extremadura,1,451,451
-2020-05-01,Galicia,1,555,555
+2020-05-01,Galicia,1,558,558
 2020-05-01,Madrid,1,8222,8222
 2020-05-01,Melilla,1,2,2
 2020-05-01,Murcia,1,132,132
@@ -217,7 +433,7 @@ date,state,fips,cases,deaths
 2020-05-01,País Vasco,1,1312,1312
 2020-04-30,Andalucía,1,1207,1207
 2020-04-30,Aragón,1,739,739
-2020-04-30,Asturias,1,273,273
+2020-04-30,Asturias,1,263,263
 2020-04-30,Baleares,1,188,188
 2020-04-30,Canarias,1,135,135
 2020-04-30,Cantabria,1,191,191
@@ -227,7 +443,7 @@ date,state,fips,cases,deaths
 2020-04-30,Ceuta,1,4,4
 2020-04-30,C. Valenciana,1,1236,1236
 2020-04-30,Extremadura,1,446,446
-2020-04-30,Galicia,1,547,547
+2020-04-30,Galicia,1,551,551
 2020-04-30,Madrid,1,8176,8176
 2020-04-30,Melilla,1,2,2
 2020-04-30,Murcia,1,130,130
@@ -235,7 +451,7 @@ date,state,fips,cases,deaths
 2020-04-30,País Vasco,1,1296,1296
 2020-04-29,Andalucía,1,1188,1188
 2020-04-29,Aragón,1,736,736
-2020-04-29,Asturias,1,266,266
+2020-04-29,Asturias,1,259,259
 2020-04-29,Baleares,1,185,185
 2020-04-29,Canarias,1,134,134
 2020-04-29,Cantabria,1,191,191
@@ -245,7 +461,7 @@ date,state,fips,cases,deaths
 2020-04-29,Ceuta,1,4,4
 2020-04-29,C. Valenciana,1,1218,1218
 2020-04-29,Extremadura,1,440,440
-2020-04-29,Galicia,1,547,547
+2020-04-29,Galicia,1,551,551
 2020-04-29,Madrid,1,8105,8105
 2020-04-29,Melilla,1,2,2
 2020-04-29,Murcia,1,130,130
@@ -253,7 +469,7 @@ date,state,fips,cases,deaths
 2020-04-29,País Vasco,1,1274,1274
 2020-04-28,Andalucía,1,1168,1168
 2020-04-28,Aragón,1,735,735
-2020-04-28,Asturias,1,261,261
+2020-04-28,Asturias,1,252,252
 2020-04-28,Baleares,1,181,181
 2020-04-28,Canarias,1,133,133
 2020-04-28,Cantabria,1,188,188
@@ -271,7 +487,7 @@ date,state,fips,cases,deaths
 2020-04-28,País Vasco,1,1255,1255
 2020-04-27,Andalucía,1,1157,1157
 2020-04-27,Aragón,1,726,726
-2020-04-27,Asturias,1,253,253
+2020-04-27,Asturias,1,248,248
 2020-04-27,Baleares,1,179,179
 2020-04-27,Canarias,1,131,131
 2020-04-27,Cantabria,1,186,186
@@ -289,7 +505,7 @@ date,state,fips,cases,deaths
 2020-04-27,País Vasco,1,1241,1241
 2020-04-26,Andalucía,1,1145,1145
 2020-04-26,Aragón,1,712,712
-2020-04-26,Asturias,1,249,249
+2020-04-26,Asturias,1,243,243
 2020-04-26,Baleares,1,175,175
 2020-04-26,Canarias,1,131,131
 2020-04-26,Cantabria,1,183,183
@@ -307,7 +523,7 @@ date,state,fips,cases,deaths
 2020-04-26,País Vasco,1,1230,1230
 2020-04-25,Andalucía,1,1131,1131
 2020-04-25,Aragón,1,709,709
-2020-04-25,Asturias,1,239,239
+2020-04-25,Asturias,1,235,235
 2020-04-25,Baleares,1,174,174
 2020-04-25,Canarias,1,130,130
 2020-04-25,Cantabria,1,182,182
@@ -325,7 +541,7 @@ date,state,fips,cases,deaths
 2020-04-25,País Vasco,1,1212,1212
 2020-04-24,Andalucía,1,1107,1107
 2020-04-24,Aragón,1,695,695
-2020-04-24,Asturias,1,231,231
+2020-04-24,Asturias,1,228,228
 2020-04-24,Baleares,1,172,172
 2020-04-24,Canarias,1,128,128
 2020-04-24,Cantabria,1,178,178
@@ -343,7 +559,7 @@ date,state,fips,cases,deaths
 2020-04-24,País Vasco,1,1193,1193
 2020-04-23,Andalucía,1,1079,1079
 2020-04-23,Aragón,1,681,681
-2020-04-23,Asturias,1,223,223
+2020-04-23,Asturias,1,222,222
 2020-04-23,Baleares,1,168,168
 2020-04-23,Canarias,1,121,121
 2020-04-23,Cantabria,1,173,173
@@ -379,7 +595,7 @@ date,state,fips,cases,deaths
 2020-04-22,País Vasco,1,1124,1124
 2020-04-21,Andalucía,1,1017,1017
 2020-04-21,Aragón,1,643,643
-2020-04-21,Asturias,1,202,202
+2020-04-21,Asturias,1,203,203
 2020-04-21,Baleares,1,161,161
 2020-04-21,Canarias,1,120,120
 2020-04-21,Cantabria,1,165,165
@@ -397,7 +613,7 @@ date,state,fips,cases,deaths
 2020-04-21,País Vasco,1,1103,1103
 2020-04-20,Andalucía,1,1013,1013
 2020-04-20,Aragón,1,637,637
-2020-04-20,Asturias,1,200,200
+2020-04-20,Asturias,1,199,199
 2020-04-20,Baleares,1,157,157
 2020-04-20,Canarias,1,119,119
 2020-04-20,Cantabria,1,158,158
@@ -415,7 +631,7 @@ date,state,fips,cases,deaths
 2020-04-20,País Vasco,1,1081,1081
 2020-04-19,Andalucía,1,993,993
 2020-04-19,Aragón,1,619,619
-2020-04-19,Asturias,1,196,196
+2020-04-19,Asturias,1,197,197
 2020-04-19,Baleares,1,155,155
 2020-04-19,Canarias,1,119,119
 2020-04-19,Cantabria,1,153,153
@@ -433,7 +649,7 @@ date,state,fips,cases,deaths
 2020-04-19,País Vasco,1,1062,1062
 2020-04-18,Andalucía,1,967,967
 2020-04-18,Aragón,1,601,601
-2020-04-18,Asturias,1,187,187
+2020-04-18,Asturias,1,190,190
 2020-04-18,Baleares,1,148,148
 2020-04-18,Canarias,1,115,115
 2020-04-18,Cantabria,1,149,149
@@ -451,7 +667,7 @@ date,state,fips,cases,deaths
 2020-04-18,País Vasco,1,1020,1020
 2020-04-17,Andalucía,1,940,940
 2020-04-17,Aragón,1,562,562
-2020-04-17,Asturias,1,174,174
+2020-04-17,Asturias,1,186,186
 2020-04-17,Baleares,1,134,134
 2020-04-17,Canarias,1,111,111
 2020-04-17,Cantabria,1,144,144
@@ -469,7 +685,7 @@ date,state,fips,cases,deaths
 2020-04-17,País Vasco,1,992,992
 2020-04-16,Andalucía,1,912,912
 2020-04-16,Aragón,1,543,543
-2020-04-16,Asturias,1,168,168
+2020-04-16,Asturias,1,176,176
 2020-04-16,Baleares,1,131,131
 2020-04-16,Canarias,1,107,107
 2020-04-16,Cantabria,1,137,137
@@ -487,7 +703,7 @@ date,state,fips,cases,deaths
 2020-04-16,País Vasco,1,956,956
 2020-04-15,Andalucía,1,865,865
 2020-04-15,Aragón,1,514,514
-2020-04-15,Asturias,1,166,166
+2020-04-15,Asturias,1,172,172
 2020-04-15,Baleares,1,125,125
 2020-04-15,Canarias,1,104,104
 2020-04-15,Cantabria,1,132,132
@@ -505,7 +721,7 @@ date,state,fips,cases,deaths
 2020-04-15,País Vasco,1,902,902
 2020-04-14,Andalucía,1,836,836
 2020-04-14,Aragón,1,492,492
-2020-04-14,Asturias,1,156,156
+2020-04-14,Asturias,1,165,165
 2020-04-14,Baleares,1,118,118
 2020-04-14,Canarias,1,102,102
 2020-04-14,Cantabria,1,120,120
@@ -523,7 +739,7 @@ date,state,fips,cases,deaths
 2020-04-14,País Vasco,1,859,859
 2020-04-13,Andalucía,1,815,815
 2020-04-13,Aragón,1,464,464
-2020-04-13,Asturias,1,149,149
+2020-04-13,Asturias,1,157,157
 2020-04-13,Baleares,1,117,117
 2020-04-13,Canarias,1,96,96
 2020-04-13,Cantabria,1,117,117
@@ -541,7 +757,7 @@ date,state,fips,cases,deaths
 2020-04-13,País Vasco,1,831,831
 2020-04-12,Andalucía,1,799,799
 2020-04-12,Aragón,1,450,450
-2020-04-12,Asturias,1,140,140
+2020-04-12,Asturias,1,150,150
 2020-04-12,Baleares,1,112,112
 2020-04-12,Canarias,1,95,95
 2020-04-12,Cantabria,1,110,110
@@ -559,7 +775,7 @@ date,state,fips,cases,deaths
 2020-04-12,País Vasco,1,804,804
 2020-04-11,Andalucía,1,737,737
 2020-04-11,Aragón,1,425,425
-2020-04-11,Asturias,1,128,128
+2020-04-11,Asturias,1,134,134
 2020-04-11,Baleares,1,102,102
 2020-04-11,Canarias,1,95,95
 2020-04-11,Cantabria,1,107,107
@@ -577,7 +793,7 @@ date,state,fips,cases,deaths
 2020-04-11,País Vasco,1,765,765
 2020-04-10,Andalucía,1,691,691
 2020-04-10,Aragón,1,409,409
-2020-04-10,Asturias,1,121,121
+2020-04-10,Asturias,1,129,129
 2020-04-10,Baleares,1,97,97
 2020-04-10,Canarias,1,94,94
 2020-04-10,Cantabria,1,102,102
@@ -595,7 +811,7 @@ date,state,fips,cases,deaths
 2020-04-10,País Vasco,1,729,729
 2020-04-09,Andalucía,1,652,652
 2020-04-09,Aragón,1,385,385
-2020-04-09,Asturias,1,110,110
+2020-04-09,Asturias,1,113,113
 2020-04-09,Baleares,1,89,89
 2020-04-09,Canarias,1,92,92
 2020-04-09,Cantabria,1,98,98
@@ -613,7 +829,7 @@ date,state,fips,cases,deaths
 2020-04-09,País Vasco,1,689,689
 2020-04-08,Andalucía,1,605,605
 2020-04-08,Aragón,1,349,349
-2020-04-08,Asturias,1,102,102
+2020-04-08,Asturias,1,107,107
 2020-04-08,Baleares,1,89,89
 2020-04-08,Canarias,1,91,91
 2020-04-08,Cantabria,1,92,92
@@ -631,7 +847,7 @@ date,state,fips,cases,deaths
 2020-04-08,País Vasco,1,635,635
 2020-04-07,Andalucía,1,528,528
 2020-04-07,Aragón,1,312,312
-2020-04-07,Asturias,1,96,96
+2020-04-07,Asturias,1,101,101
 2020-04-07,Baleares,1,84,84
 2020-04-07,Canarias,1,89,89
 2020-04-07,Cantabria,1,85,85
@@ -649,7 +865,7 @@ date,state,fips,cases,deaths
 2020-04-07,País Vasco,1,586,586
 2020-04-06,Andalucía,1,491,491
 2020-04-06,Aragón,1,284,284
-2020-04-06,Asturias,1,86,86
+2020-04-06,Asturias,1,93,93
 2020-04-06,Baleares,1,81,81
 2020-04-06,Canarias,1,85,85
 2020-04-06,Cantabria,1,77,77
@@ -667,7 +883,7 @@ date,state,fips,cases,deaths
 2020-04-06,País Vasco,1,548,548
 2020-04-05,Andalucía,1,470,470
 2020-04-05,Aragón,1,270,270
-2020-04-05,Asturias,1,80,80
+2020-04-05,Asturias,1,87,87
 2020-04-05,Baleares,1,75,75
 2020-04-05,Canarias,1,80,80
 2020-04-05,Cantabria,1,68,68
@@ -685,7 +901,7 @@ date,state,fips,cases,deaths
 2020-04-05,País Vasco,1,515,515
 2020-04-04,Andalucía,1,426,426
 2020-04-04,Aragón,1,251,251
-2020-04-04,Asturias,1,76,76
+2020-04-04,Asturias,1,83,83
 2020-04-04,Baleares,1,71,71
 2020-04-04,Canarias,1,78,78
 2020-04-04,Cantabria,1,68,68
@@ -703,7 +919,7 @@ date,state,fips,cases,deaths
 2020-04-04,País Vasco,1,477,477
 2020-04-03,Andalucía,1,376,376
 2020-04-03,Aragón,1,224,224
-2020-04-03,Asturias,1,70,70
+2020-04-03,Asturias,1,80,80
 2020-04-03,Baleares,1,69,69
 2020-04-03,Canarias,1,73,73
 2020-04-03,Cantabria,1,64,64
@@ -721,7 +937,7 @@ date,state,fips,cases,deaths
 2020-04-03,País Vasco,1,444,444
 2020-04-02,Andalucía,1,343,343
 2020-04-02,Aragón,1,200,200
-2020-04-02,Asturias,1,69,69
+2020-04-02,Asturias,1,76,76
 2020-04-02,Baleares,1,58,58
 2020-04-02,Canarias,1,68,68
 2020-04-02,Cantabria,1,60,60
@@ -739,7 +955,7 @@ date,state,fips,cases,deaths
 2020-04-02,País Vasco,1,412,412
 2020-04-01,Andalucía,1,308,308
 2020-04-01,Aragón,1,169,169
-2020-04-01,Asturias,1,63,63
+2020-04-01,Asturias,1,75,75
 2020-04-01,Baleares,1,46,46
 2020-04-01,Canarias,1,62,62
 2020-04-01,Cantabria,1,54,54
@@ -757,7 +973,7 @@ date,state,fips,cases,deaths
 2020-04-01,País Vasco,1,369,369
 2020-03-31,Andalucía,1,248,248
 2020-03-31,Aragón,1,138,138
-2020-03-31,Asturias,1,55,55
+2020-03-31,Asturias,1,66,66
 2020-03-31,Baleares,1,42,42
 2020-03-31,Canarias,1,55,55
 2020-03-31,Cantabria,1,37,37
@@ -775,7 +991,7 @@ date,state,fips,cases,deaths
 2020-03-31,País Vasco,1,325,325
 2020-03-30,Andalucía,1,236,236
 2020-03-30,Aragón,1,106,106
-2020-03-30,Asturias,1,49,49
+2020-03-30,Asturias,1,59,59
 2020-03-30,Baleares,1,37,37
 2020-03-30,Canarias,1,40,40
 2020-03-30,Cantabria,1,27,27
@@ -793,7 +1009,7 @@ date,state,fips,cases,deaths
 2020-03-30,País Vasco,1,297,297
 2020-03-29,Andalucía,1,207,207
 2020-03-29,Aragón,1,104,104
-2020-03-29,Asturias,1,41,41
+2020-03-29,Asturias,1,47,47
 2020-03-29,Baleares,1,29,29
 2020-03-29,Canarias,1,39,39
 2020-03-29,Cantabria,1,26,26
@@ -811,7 +1027,7 @@ date,state,fips,cases,deaths
 2020-03-29,País Vasco,1,265,265
 2020-03-28,Andalucía,1,175,175
 2020-03-28,Aragón,1,93,93
-2020-03-28,Asturias,1,33,33
+2020-03-28,Asturias,1,44,44
 2020-03-28,Baleares,1,26,26
 2020-03-28,Canarias,1,36,36
 2020-03-28,Cantabria,1,22,22
@@ -829,7 +1045,7 @@ date,state,fips,cases,deaths
 2020-03-28,País Vasco,1,241,241
 2020-03-27,Andalucía,1,144,144
 2020-03-27,Aragón,1,58,58
-2020-03-27,Asturias,1,29,29
+2020-03-27,Asturias,1,39,39
 2020-03-27,Baleares,1,22,22
 2020-03-27,Canarias,1,27,27
 2020-03-27,Cantabria,1,21,21
@@ -847,7 +1063,7 @@ date,state,fips,cases,deaths
 2020-03-27,País Vasco,1,207,207
 2020-03-26,Andalucía,1,134,134
 2020-03-26,Aragón,1,48,48
-2020-03-26,Asturias,1,27,27
+2020-03-26,Asturias,1,29,29
 2020-03-26,Baleares,1,17,17
 2020-03-26,Canarias,1,24,24
 2020-03-26,Cantabria,1,17,17
@@ -865,7 +1081,7 @@ date,state,fips,cases,deaths
 2020-03-26,País Vasco,1,180,180
 2020-03-25,Andalucía,1,113,113
 2020-03-25,Aragón,1,40,40
-2020-03-25,Asturias,1,25,25
+2020-03-25,Asturias,1,29,29
 2020-03-25,Baleares,1,13,13
 2020-03-25,Canarias,1,21,21
 2020-03-25,Cantabria,1,14,14
@@ -883,7 +1099,7 @@ date,state,fips,cases,deaths
 2020-03-25,País Vasco,1,155,155
 2020-03-24,Andalucía,1,87,87
 2020-03-24,Aragón,1,37,37
-2020-03-24,Asturias,1,22,22
+2020-03-24,Asturias,1,26,26
 2020-03-24,Baleares,1,10,10
 2020-03-24,Canarias,1,16,16
 2020-03-24,Cantabria,1,9,9
@@ -901,7 +1117,7 @@ date,state,fips,cases,deaths
 2020-03-24,País Vasco,1,133,133
 2020-03-23,Andalucía,1,58,58
 2020-03-23,Aragón,1,32,32
-2020-03-23,Asturias,1,12,12
+2020-03-23,Asturias,1,22,22
 2020-03-23,Baleares,1,10,10
 2020-03-23,Canarias,1,11,11
 2020-03-23,Cantabria,1,6,6
@@ -919,13 +1135,13 @@ date,state,fips,cases,deaths
 2020-03-23,País Vasco,1,120,120
 2020-03-22,Andalucía,1,47,47
 2020-03-22,Aragón,1,24,24
-2020-03-22,Asturias,1,8,8
+2020-03-22,Asturias,1,12,12
 2020-03-22,Baleares,1,4,4
 2020-03-22,Canarias,1,9,9
 2020-03-22,Cantabria,1,5,5
 2020-03-22,Castilla La Mancha,1,112,112
 2020-03-22,Castilla y León,1,74,74
-2020-03-22,Cataluña,1,143,143
+2020-03-22,Cataluña,1,182,182
 2020-03-22,Ceuta,1,0,0
 2020-03-22,C. Valenciana,1,69,69
 2020-03-22,Extremadura,1,14,14
@@ -937,13 +1153,13 @@ date,state,fips,cases,deaths
 2020-03-22,País Vasco,1,97,97
 2020-03-21,Andalucía,1,40,40
 2020-03-21,Aragón,1,22,22
-2020-03-21,Asturias,1,5,5
+2020-03-21,Asturias,1,7,7
 2020-03-21,Baleares,1,4,4
 2020-03-21,Canarias,1,7,7
 2020-03-21,Cantabria,1,2,2
 2020-03-21,Castilla La Mancha,1,84,84
 2020-03-21,Castilla y León,1,55,55
-2020-03-21,Cataluña,1,122,122
+2020-03-21,Cataluña,1,143,143
 2020-03-21,Ceuta,1,0,0
 2020-03-21,C. Valenciana,1,50,50
 2020-03-21,Extremadura,1,12,12
@@ -955,7 +1171,7 @@ date,state,fips,cases,deaths
 2020-03-21,País Vasco,1,85,85
 2020-03-20,Andalucía,1,30,30
 2020-03-20,Aragón,1,17,17
-2020-03-20,Asturias,1,2,2
+2020-03-20,Asturias,1,4,4
 2020-03-20,Baleares,1,2,2
 2020-03-20,Canarias,1,4,4
 2020-03-20,Cantabria,1,1,1
@@ -973,7 +1189,7 @@ date,state,fips,cases,deaths
 2020-03-20,País Vasco,1,71,71
 2020-03-19,Andalucía,1,23,23
 2020-03-19,Aragón,1,15,15
-2020-03-19,Asturias,1,1,1
+2020-03-19,Asturias,1,2,2
 2020-03-19,Baleares,1,2,2
 2020-03-19,Canarias,1,3,3
 2020-03-19,Cantabria,1,1,1
@@ -991,7 +1207,7 @@ date,state,fips,cases,deaths
 2020-03-19,País Vasco,1,53,53
 2020-03-18,Andalucía,1,19,19
 2020-03-18,Aragón,1,13,13
-2020-03-18,Asturias,1,1,1
+2020-03-18,Asturias,1,2,2
 2020-03-18,Baleares,1,1,1
 2020-03-18,Canarias,1,3,3
 2020-03-18,Cantabria,1,1,1
@@ -1009,7 +1225,7 @@ date,state,fips,cases,deaths
 2020-03-18,País Vasco,1,40,40
 2020-03-17,Andalucía,1,11,11
 2020-03-17,Aragón,1,12,12
-2020-03-17,Asturias,1,1,1
+2020-03-17,Asturias,1,2,2
 2020-03-17,Baleares,1,1,1
 2020-03-17,Canarias,1,2,2
 2020-03-17,Cantabria,1,0,0
@@ -1027,12 +1243,12 @@ date,state,fips,cases,deaths
 2020-03-17,País Vasco,1,36,36
 2020-03-16,Andalucía,1,7,7
 2020-03-16,Aragón,1,11,11
-2020-03-16,Asturias,1,1,1
+2020-03-16,Asturias,1,2,2
 2020-03-16,Baleares,1,1,1
 2020-03-16,Canarias,1,1,1
 2020-03-16,Cantabria,1,0,0
 2020-03-16,Castilla La Mancha,1,17,17
-2020-03-16,Castilla y León,1,6,6
+2020-03-16,Castilla y León,1,9,9
 2020-03-16,Cataluña,1,20,20
 2020-03-16,Ceuta,1,0,0
 2020-03-16,C. Valenciana,1,5,5
@@ -1045,12 +1261,12 @@ date,state,fips,cases,deaths
 2020-03-16,País Vasco,1,23,23
 2020-03-15,Andalucía,1,6,6
 2020-03-15,Aragón,1,7,7
-2020-03-15,Asturias,1,1,1
+2020-03-15,Asturias,1,2,2
 2020-03-15,Baleares,1,1,1
 2020-03-15,Canarias,1,1,1
 2020-03-15,Cantabria,1,0,0
 2020-03-15,Castilla La Mancha,1,10,10
-2020-03-15,Castilla y León,1,3,3
+2020-03-15,Castilla y León,1,6,6
 2020-03-15,Cataluña,1,15,15
 2020-03-15,Ceuta,1,0,0
 2020-03-15,C. Valenciana,1,5,5
@@ -1063,12 +1279,12 @@ date,state,fips,cases,deaths
 2020-03-15,País Vasco,1,23,23
 2020-03-14,Andalucía,1,2,2
 2020-03-14,Aragón,1,7,7
-2020-03-14,Asturias,1,1,1
+2020-03-14,Asturias,1,2,2
 2020-03-14,Baleares,1,1,1
 2020-03-14,Canarias,1,1,1
 2020-03-14,Cantabria,1,0,0
 2020-03-14,Castilla La Mancha,1,6,6
-2020-03-14,Castilla y León,1,1,1
+2020-03-14,Castilla y León,1,3,3
 2020-03-14,Cataluña,1,13,13
 2020-03-14,Ceuta,1,0,0
 2020-03-14,C. Valenciana,1,4,4
@@ -1086,7 +1302,7 @@ date,state,fips,cases,deaths
 2020-03-13,Canarias,1,0,0
 2020-03-13,Cantabria,1,0,0
 2020-03-13,Castilla La Mancha,1,5,5
-2020-03-13,Castilla y León,1,0,0
+2020-03-13,Castilla y León,1,1,1
 2020-03-13,Cataluña,1,9,9
 2020-03-13,Ceuta,1,0,0
 2020-03-13,C. Valenciana,1,1,1
@@ -1099,7 +1315,7 @@ date,state,fips,cases,deaths
 2020-03-13,País Vasco,1,14,14
 2020-03-12,Andalucía,1,0,0
 2020-03-12,Aragón,1,6,6
-2020-03-12,Asturias,1,1,1
+2020-03-12,Asturias,1,0,0
 2020-03-12,Baleares,1,1,1
 2020-03-12,Canarias,1,0,0
 2020-03-12,Cantabria,1,0,0
@@ -1180,7 +1396,7 @@ date,state,fips,cases,deaths
 2020-03-08,Cataluña,1,1,1
 2020-03-08,Ceuta,1,0,0
 2020-03-08,C. Valenciana,1,1,1
-2020-03-08,Extremadura,1,0,0
+2020-03-08,Extremadura,1,1,1
 2020-03-08,Galicia,1,0,0
 2020-03-08,Madrid,1,8,8
 2020-03-08,Melilla,1,0,0
@@ -1259,21 +1475,3 @@ date,state,fips,cases,deaths
 2020-03-04,Murcia,1,0,0
 2020-03-04,Navarra,1,0,0
 2020-03-04,País Vasco,1,0,0
-2020-03-03,Andalucía,1,0,0
-2020-03-03,Aragón,1,0,0
-2020-03-03,Asturias,1,0,0
-2020-03-03,Baleares,1,0,0
-2020-03-03,Canarias,1,0,0
-2020-03-03,Cantabria,1,0,0
-2020-03-03,Castilla La Mancha,1,0,0
-2020-03-03,Castilla y León,1,0,0
-2020-03-03,Cataluña,1,0,0
-2020-03-03,Ceuta,1,0,0
-2020-03-03,C. Valenciana,1,0,0
-2020-03-03,Extremadura,1,0,0
-2020-03-03,Galicia,1,0,0
-2020-03-03,Madrid,1,0,0
-2020-03-03,Melilla,1,0,0
-2020-03-03,Murcia,1,0,0
-2020-03-03,Navarra,1,0,0
-2020-03-03,País Vasco,1,0,0
